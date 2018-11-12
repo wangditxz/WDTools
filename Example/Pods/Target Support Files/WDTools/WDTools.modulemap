@@ -1,0 +1,6 @@
+framework module WDTools {
+  umbrella header "WDTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

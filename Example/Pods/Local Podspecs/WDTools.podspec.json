@@ -1,0 +1,22 @@
+{
+  "name": "WDTools",
+  "version": "0.1.0",
+  "summary": "A short description of WDTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangditxz/WDTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangditxz": "wangdi05@yxqiche.com"
+  },
+  "source": {
+    "git": "https://github.com/wangditxz/WDTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WDTools/Classes/**/*"
+}
